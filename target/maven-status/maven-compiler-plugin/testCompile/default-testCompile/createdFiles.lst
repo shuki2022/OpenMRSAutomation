@@ -1,0 +1,5 @@
+com/openmrs/tests/FindPatientRecordPageTest.class
+com/openmrs/tests/AdminDashBoardPageTest.class
+com/openmrs/tests/RegisterPatientPageTest.class
+com/openmrs/tests/LoginPageTest.class
+com/openmrs/tests/PatientPageTest.class
